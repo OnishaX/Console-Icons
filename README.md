@@ -37,6 +37,10 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - New Nintendo 3DS XL
 - New Nintendo 2DS XL
 - Nintendo Switch Lite
+- Nintendo Entertainment System
+- Nintendo Famicom
+- Super Nintendo Entertainment System
+- Nintendo Super Famicom
 - Nintendo 64
 - Nintendo GameCube
 - Nintendo Wii
