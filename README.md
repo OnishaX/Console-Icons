@@ -2,7 +2,7 @@
 # Console Icons
 A collection of my console icons. I use them for Siri Shortcuts on my Mac and iPhone to control my game room.
 This repository includes each icon in three different styles.
-iOS (.png) has the full square image, macOS (.icns) has the icons in the macOS 11 style, and Windows (.ico) has them in a round style with the appropriate file type.
+iOS (.png) have the full square images, macOS (.icns) have the icons in the macOS 11 style, and Windows (.ico) has them in a round style with the appropriate file type.
 
 ### Apple
 - Apple Pippin
