@@ -80,6 +80,16 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Sega Saturn
 - Sega Dreamcast
 
+### Windows
+- Windows 3.0
+- Windows XP
+- Windows Vista
+- Windows 7
+- Windows 8
+- Windows 8.1
+- Windows 10
+- Windows 11
+
 ### Xbox
 - Xbox
 - Xbox 360
