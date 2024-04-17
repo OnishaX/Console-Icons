@@ -1,6 +1,6 @@
 ![Image](https://github.com/OnishaX/Console-Icons/blob/main/Banner.png?raw=true)
 # Console Icons
-A collection of my console icons. I use them for Siri Shortcuts on my Mac and iPhone to control my game room.
+A collection of my console icons. I use them for Siri Shortcuts on my Mac and iPhone to control my game room. I've also included different computer operating systems because I was bored.
 This repository includes each icon in three different styles.
 iOS (.png) have the full square images, macOS (.icns) have the icons in the macOS 11 style, and Windows (.ico) has them in a round style with the appropriate file type.
 
