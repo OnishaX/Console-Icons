@@ -80,6 +80,12 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Sega Saturn
 - Sega Dreamcast
 
+### Store
+- Battle.Net
+- EA App
+- Epic Game Store
+- GOG
+
 ### Windows
 - Windows 3.0
 - Windows XP
