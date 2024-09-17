@@ -72,6 +72,8 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - PlayStation 4 Pro
 - PlayStation 5
 - PlayStation 5 Digital Edition
+- PlayStation 5 Slim
+- PlayStation 5 Pro
 
 ### SEGA
 - Sega SG 1000
