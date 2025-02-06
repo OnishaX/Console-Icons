@@ -96,6 +96,12 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 
 ### Windows
 - Windows 3.0
+- Windows 3.1
+- Windows NT 3.1
+- Windows 95
+- Windows 98
+- Windows 2000
+- Windows ME
 - Windows XP
 - Windows Vista
 - Windows 7
