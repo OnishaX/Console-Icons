@@ -56,6 +56,7 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Nintendo Wii U Basic
 - Nintendo Wii U Premium
 - Nintendo Switch
+- Nintendo Switch Lite
 - Nintendo Switch OLED
 - Nintendo Switch 2
 
