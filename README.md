@@ -22,6 +22,12 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Atari XE
 - Atari VCS
 
+### Clients
+- Battle.Net
+- EA App
+- Epic Game Store
+- GOG
+
 ### Nintendo
 - Nintendo Game Boy
 - Nintendo Game Boy Color
@@ -52,6 +58,9 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Nintendo Switch
 - Nintendo Switch OLED
 - Nintendo Switch 2
+
+### Ouya
+- Ouya
 
 ### PlayStation
 - Pocket Station
@@ -84,12 +93,6 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Sega Saturn
 - Sega Dreamcast
 
-### Store
-- Battle.Net
-- EA App
-- Epic Game Store
-- GOG
-
 ### Windows
 - Windows 3.0
 - Windows XP
@@ -99,6 +102,11 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Windows 8.1
 - Windows 10
 - Windows 11
+
+### Valve
+- Steam machine
+- Steam Deck
+- Steam Deck OLED
 
 ### Xbox
 - Xbox
