@@ -41,6 +41,7 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Nintendo Famicom
 - Super Nintendo Entertainment System
 - Nintendo Super Famicom
+- Virtual Boy
 - Nintendo 64
 - Nintendo GameCube
 - Nintendo Wii
@@ -50,6 +51,7 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Nintendo Wii U Premium
 - Nintendo Switch
 - Nintendo Switch OLED
+- Nintendo Switch 2
 
 ### PlayStation
 - Pocket Station
