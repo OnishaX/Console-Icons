@@ -104,7 +104,7 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 - Windows 11
 
 ### Valve
-- Steam machine
+- Steam Machine
 - Steam Deck
 - Steam Deck OLED
 
