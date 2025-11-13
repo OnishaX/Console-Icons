@@ -112,8 +112,11 @@ iOS (.png) have the full square images, macOS (.icns) have the icons in the macO
 
 ### Valve
 - Steam Machine
+- Valve Index
 - Steam Deck
 - Steam Deck OLED
+- Steam Machine 2
+- Steam Frame
 
 ### Xbox
 - Xbox
